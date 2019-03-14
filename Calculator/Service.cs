@@ -15,7 +15,7 @@ namespace Calculator
         [OperationContract]
         public string Help()
         {
-            return Environment.MachineName;
+            return $"{Environment.MachineName}";
         }
     }
 
