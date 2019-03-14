@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{A07B5EB6-E848-4116-A8D0-A826331D98C6}") = "Calculator.ASF", "Calculator.ASF\Calculator.ASF.sfproj", "{55F455B8-F685-4B75-80F1-294FF6631D0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{DD866C19-7E60-4755-B7E0-74CCCB2A0FDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55F455B8-F685-4B75-80F1-294FF6631D0B}.Debug|x64.ActiveCfg = Debug|x64
+		{55F455B8-F685-4B75-80F1-294FF6631D0B}.Debug|x64.Build.0 = Debug|x64
+		{55F455B8-F685-4B75-80F1-294FF6631D0B}.Debug|x64.Deploy.0 = Debug|x64
+		{55F455B8-F685-4B75-80F1-294FF6631D0B}.Release|x64.ActiveCfg = Release|x64
+		{55F455B8-F685-4B75-80F1-294FF6631D0B}.Release|x64.Build.0 = Release|x64
+		{55F455B8-F685-4B75-80F1-294FF6631D0B}.Release|x64.Deploy.0 = Release|x64
+		{DD866C19-7E60-4755-B7E0-74CCCB2A0FDF}.Debug|x64.ActiveCfg = Debug|x64
+		{DD866C19-7E60-4755-B7E0-74CCCB2A0FDF}.Debug|x64.Build.0 = Debug|x64
+		{DD866C19-7E60-4755-B7E0-74CCCB2A0FDF}.Release|x64.ActiveCfg = Release|x64
+		{DD866C19-7E60-4755-B7E0-74CCCB2A0FDF}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82642F34-B252-4D10-A105-4E5BDA1969E6}
+	EndGlobalSection
+EndGlobal
